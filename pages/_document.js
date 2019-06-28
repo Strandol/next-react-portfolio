@@ -18,7 +18,7 @@ class MyDocument extends Document {
                     <NextScript />
                 </body>
 
-                <style jsx>{`
+                <style jsx global>{`
                     body {
                         font-family: 'Roboto', sans-serif;
                     }
